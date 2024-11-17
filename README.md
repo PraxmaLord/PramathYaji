@@ -4,7 +4,6 @@
 I am a Cybersecurity graduate student at University at Buffalo with a profound interest in Penetration Testing.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to Red Team in an Organization for Penteration Testing.
 
